@@ -1,4 +1,4 @@
-# productivity-tracker
+# Productivity Tracker
 
 Created this as a project for HackRU Fall 2025.
 
