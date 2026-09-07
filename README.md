@@ -9,5 +9,5 @@ User can adjust which apps they want to blacklist and the unproductivty timer, t
 
 
 # Limitations
-Unfortunately this only works with open applications. It doesn't work with specifc browser windows as I am unsure how to implement that.
+Unfortunately this only works with open applications. It doesn't work with specific browser windows as I am unsure how to implement that.
 Also, I believe this only works on Windows devices because of the library I used to track active tabs.
